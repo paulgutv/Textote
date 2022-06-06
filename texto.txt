@@ -1,1 +1,2 @@
-Hola, este es un texto gigante. Con su segundo commit
+Hola, este es un texto gigante. Con su segundo commit.
+ESta es la segunda linea
